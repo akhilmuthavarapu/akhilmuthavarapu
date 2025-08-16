@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Spring+Boot+%7C+Flask+%7C+React;Building+AI-powered+Applications;Always+Learning+New+Things" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Python+%7C+Flask+%7C+React;Building+AI-powered+Applications;Always+Learning+New+Things" alt="Typing Animation">
 </p>
 
 ---
@@ -73,6 +73,16 @@
 </p>
 
 ---
+## 📊 Activity Graph  
+
+[![Akhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhilmuthavarapu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilmuthavarapu&show_icons=true&theme=radical" alt="stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilmuthavarapu&theme=radical" alt="streak" height="180px"/>
+</p>
+
 
 ## 🌐 Connect with Me  
 
