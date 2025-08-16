@@ -54,12 +54,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-<!-- START_SECTION:projects -->
-<!-- Repos will be automatically listed here -->
-<!-- END_SECTION:projects -->
-
 
 ## 📊 GitHub Analytics  
 
@@ -87,7 +81,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/m-v-akhil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/venkata-akhil-muthavarapu-12042424a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/akhilmuthavarapu"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://portfolio-gamma-ebon-24.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
