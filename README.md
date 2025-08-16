@@ -1,5 +1,5 @@
 <!-- Intro Banner -->
-<h1 align="center">Hi 👋, I'm Akhil Muthavarapu</h1>
+<h1 align="center">Hi 👋, I'm Venkata Akhil Muthavarapu</h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI & ML Enthusiast | 💡 Problem Solver</h3>
 
 <!-- Typing animation -->
@@ -50,10 +50,16 @@
 - 🔑 **ATM Simulation Web App** – Flask + MySQL with QR & OTP authentication  
 - 🎓 **Student Bus Pass Renewal Chatbot** – WhatsApp + Android app with UPI integration  
 - ✈️ **Aircraft Collision Prediction** – ML-based safety system  
-- 📡 **WiFi Password Strength Evaluator** – Deep learning for password security  
 - 🎥 **Mock Interview AI** – Gemini API + Python + PyWebIO for interview practice  
 
 ---
+
+## 📌 Featured Projects  
+
+<!-- START_SECTION:projects -->
+<!-- Repos will be automatically listed here -->
+<!-- END_SECTION:projects -->
+
 
 ## 📊 GitHub Analytics  
 
@@ -71,9 +77,9 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhil-muthavarapu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/m-v-akhil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/akhilmuthavarapu"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://portfolio-gamma-ebon-24.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
